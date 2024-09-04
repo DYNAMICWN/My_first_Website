@@ -1,0 +1,30 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+li {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-weight: 500;
+}
+
+#Spider Man{
+
+height: 200px;
+}
+#Titanic{
+    height: 250px;
+}
+#Hidden figure{
+    height: 160px;
+}
